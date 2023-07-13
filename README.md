@@ -6,7 +6,7 @@ This is used in generating random advice.
 ### The challenge - It take a while before getting the concept of API fetching using the .then() and .catch() method.
 
 ### Screenshot
-Link - ![uploadScreenshot](https://github.com/shakiroh55/Advice-App-Generator/assets/105343342/3737ee3b-9983-4457-9e9f-fc25212fc7ed)
+Link - ![uploadScreenshot](https://github.com/shakiroh55/AdviceAppGenerator/assets/105343342/785a8394-d6ab-48b6-8684-2a469bd47cb0)
 
 
 ### Links
